@@ -1,0 +1,40 @@
+
+body {
+    padding-top: 70px; 
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .bg-red {
+    background-color: #a5071a;
+  }
+  
+  footer {
+    font-size: 0.9rem;
+  }
+  
+  .list-group-item {
+    border: none;
+  }
+  
+  .hero-section {
+    background-image: url('https://sport.thiagor.net/wp-content/uploads/2024/05/FOTOS-bg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .hero-section h1,
+  .hero-section p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+  
+  .custom-yellow {
+    color: #FFD700; 
+  }
+  
